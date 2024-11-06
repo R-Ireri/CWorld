@@ -16,5 +16,8 @@ The code is structured into functions for each conversion type, making it modula
 
 # Future Improvements
 >Error Handling: Implement error handling for invalid input values.
+
 >User Interface: Enhance the user interface with a graphical user interface (GUI) using a library like GTK+ or Qt.
+
 >Additional Features: Add features like temperature history and favorite conversions.
+
