@@ -1,5 +1,5 @@
 # CWorld- Temperature Wizard
-This is a simple C program that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a user-friendly interface to input a temperature value and select the desired conversion.
+This is a simple C++ program that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a user-friendly interface to input a temperature value and select the desired conversion.
 # How to Use
 >Compile the code: Use a C compiler like GCC to compile the source code into an executable file.
 
